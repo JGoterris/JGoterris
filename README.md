@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy JGoterris</h1>
 <h3 align="center">Un amante de la programación y la informática en general</h3>
 
-- 🔭 Actualmente estudio **Ingeniería Informática**
+- 🔭 Soy **Ingeniero Informático**
 
 - 🌐 Mi web [https://jgoterris.com](https://jgoterris.com)
 
