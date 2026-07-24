@@ -1,22 +1,63 @@
-<h1 align="center">Hola 👋, soy JGoterris</h1>
-<h3 align="center">Un amante de la programación y la informática en general</h3>
+<div align="center">
 
-- 🔭 Soy **Ingeniero Informático**
+# Hi, I'm Jesús Goterris 👋
 
-- 🌐 Mi web [https://jgoterris.com](https://jgoterris.com)
+### Software Engineer 💻
 
-- 💬 Puedes preguntarme sobre **python, java, kotlin, administración de sistemas...**
+[![Website](https://img.shields.io/badge/Portfolio-jgoterris.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jgoterris.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jesús_Goterris-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jgoterris/)
+[![Email](https://img.shields.io/badge/Email-contact%40jgoterris.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@jgoterris.com)
 
-- 📫 Contáctame en **contact@jgoterris.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jgoterris_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jgoterris_04" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jgoterris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jgoterris" height="30" width="40" /></a>
-<a href="https://instagram.com/jgoterris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jgoterris" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/jgoterris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jgoterris" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/1rk4ydtf5n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="1rk4ydtf5n" height="30" width="40" /></a>
-</p>
+## About me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+I am a software engineer who enjoys turning ideas into useful, reliable products. I like working across the development lifecycle: understanding a problem, designing a maintainable solution, writing clean code, testing it, and improving it over time.
+
+I currently work at **Nealis Tech**, where I develop custom applications, AI agents, and the platform used to orchestrate them.
+
+My interest in technology began with a Raspberry Pi when I was 11. Since then, curiosity has taken me through backend development, web applications, self-hosted services, automated testing, distributed learning, and AI-enabled software.
+
+- 🎓 BSc in Computer Engineering, majoring in Software Engineering, from **Universitat Jaume I**
+- 🏅 Graduated with a **9.43/10 GPA** and received **Honours for my Bachelor's Thesis**
+- 🔬 Former researcher at **GEOTEC**, where I developed a cluster-based federated learning system for IoT environments
+- 🧪 Previously worked on end-to-end UI test automation with **Playwright** and a QA execution-history portal
+- 🏆 Two-time recipient of the **Ernest Breva Academic Excellence Award**
+- 🌍 Based in Spain
+
+## Tech stack
+
+**Languages:** Python · Java · SQL · Bash · JavaScript / TypeScript · C · Kotlin  
+**Backend & data:** FastAPI · MongoDB · PostgreSQL · Redis · Firebase · Supabase  
+**Web & testing:** Angular · React · Playwright · HTML · CSS  
+**Tools & platforms:** Git & GitHub · Docker · Linux · Cloudflare  
+**Current work:** LLM applications · AI agents · Agent orchestration  
+**Also explored:** Federated learning · Arduino / ESP32 · Unity
+
+## Featured projects
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [GastoBot](https://github.com/JGoterris/GastoBot) | AI-powered Telegram bot that extracts expenses from text, voice notes, and receipt photos, validates them with the user, and stores them in Google Sheets. | Python · Gemini · Telegram API · Google Sheets |
+| [SongRecommendations](https://github.com/JGoterris/SongRecommendations) | Desktop application that recommends songs from a preloaded catalogue. | Java · JavaFX |
+| [Mappets](https://github.com/JGoterris/Mappets) | Android mobility app that plans routes by time, distance, or cost and estimates financial or physical effort for different transport modes. | Kotlin · Jetpack Compose · Firebase · Mapbox |
+
+These are just a few of the projects I have made public. Most of my projects and professional work are kept in private repositories.
+
+## Beyond the code
+
+I care about understanding how systems work, communicating clearly, and continuously improving the way software is built. I am especially interested in **software architecture, programming, backend development, researching and innovating**.
+
+When I am not building software, I am usually learning a new technology, experimenting with my home server, or helping others discover what they can create with code.
+
+---
+
+<div align="center">
+
+### Let's build something useful
+
+I am always happy to connect, exchange ideas, and collaborate on interesting software projects.
+
+[Portfolio](https://jgoterris.com) · [LinkedIn](https://www.linkedin.com/in/jgoterris/) · [Email](mailto:contact@jgoterris.com)
+
+</div>
