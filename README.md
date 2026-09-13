@@ -39,9 +39,9 @@ My interest in technology began with a Raspberry Pi when I was 11. Since then, c
 | Project | What it does | Stack |
 | --- | --- | --- |
 | [Mappets](https://github.com/JGoterris/Mappets) | Android mobility app that plans routes by time, distance, or cost and estimates financial or physical effort for different transport modes. | Kotlin · Jetpack Compose · Firebase · Mapbox |
+| [LIA-FL](https://github.com/GeoTecINIT/LIA_System) | Containerised federated learning platform for AIoT time-series forecasting, with group-based federation over MQTT. | Python · MQTT · AIoT · Docker |
 | [GastoBot](https://github.com/JGoterris/GastoBot) | AI-powered Telegram bot that extracts expenses from text, voice notes, and receipt photos, validates them with the user, and stores them in Google Sheets. | Python · Gemini · Telegram API · Google Sheets |
 | [SongRecommendations](https://github.com/JGoterris/SongRecommendations) | Desktop application that recommends songs from a preloaded catalogue. | Java · JavaFX |
-| [LIA-FL](https://github.com/GeoTecINIT/LIA_System) | Containerised federated learning platform for AIoT time-series forecasting, with group-based federation over MQTT. | Python · MQTT · AIoT · Docker |
 
 These are just a few of the projects I have made public. Most of my projects and professional work are kept in private repositories.
 
