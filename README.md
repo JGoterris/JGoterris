@@ -43,7 +43,7 @@ My interest in technology began with a Raspberry Pi when I was 11. Since then, c
 | [GastoBot](https://github.com/JGoterris/GastoBot) | AI-powered Telegram bot that extracts expenses from text, voice notes, and receipt photos, validates them with the user, and stores them in Google Sheets. | Python · Gemini · Telegram API · Google Sheets |
 | [SongRecommendations](https://github.com/JGoterris/SongRecommendations) | Desktop application that recommends songs from a preloaded catalogue. | Java · JavaFX |
 
-These are just a few of the projects I have made public. Most of my projects and professional work are kept in private repositories.
+These are just a few of the projects I have made public. Most of my projects and professional work are kept in private repositories. Find more details on [my portfolio website](https://jgoterris.com/)
 
 ## Beyond the code
 
