@@ -32,7 +32,7 @@ My interest in technology began with a Raspberry Pi when I was 11. Since then, c
 **Web & testing:** React · Angular · Playwright · HTML · CSS  
 **Tools & platforms:** Git & GitHub · Docker · Linux · Cloudflare  
 **Current work:** LLM applications · AI agents · Agent orchestration  
-**Also explored:** Federated learning · Arduino / ESP32 · Unity
+**Also explored:** Federated learning · Arduino / ESP32 · Unity  
 **Learning:** Go · Rust
 
 ## Featured projects
