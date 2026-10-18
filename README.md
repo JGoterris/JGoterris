@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/banner.png" alt="Jesús Goterris banner" width="100%">
+
 # Hi, I'm Jesús Goterris 👋
 
 ### Software Engineer 💻
