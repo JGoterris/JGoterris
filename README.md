@@ -1,68 +1,53 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Jesús Goterris banner" width="100%">
+<img src="assets/banner.png" alt="JGoterris — software engineer · jgoterris.com" width="100%">
 
-# Hi, I'm Jesús Goterris 👋
-
-### Software Engineer 💻
-
-[![Website](https://img.shields.io/badge/Portfolio-jgoterris.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jgoterris.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jesús_Goterris-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jgoterris/)
-[![Email](https://img.shields.io/badge/Email-contact%40jgoterris.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@jgoterris.com)
+[![Portfolio](https://img.shields.io/badge/jgoterris.com-1C1312?style=flat-square&logo=googlechrome&logoColor=E5492D)](https://jgoterris.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1C1312?style=flat-square&logo=linkedin&logoColor=E5492D)](https://www.linkedin.com/in/jgoterris/)
+[![Email](https://img.shields.io/badge/contact%40jgoterris.com-1C1312?style=flat-square&logo=gmail&logoColor=E5492D)](mailto:contact@jgoterris.com)
 
 </div>
 
-## About me
+Software engineer at **Nealis Tech**, building AI-powered applications end to end, from backend and frontend to infrastructure. Lately I'm writing **Go** and learning **Rust**.
 
-I am a software engineer who enjoys turning ideas into useful, reliable products. I like working across the development lifecycle: understanding a problem, designing a maintainable solution, writing clean code, testing it, and improving it over time.
+```yaml
+now:        end-to-end AI applications @ Nealis Tech
+before:     federated learning research @ GEOTEC · E2E test automation (Playwright)
+education:  BSc Computer Engineering (Software), Universitat Jaume I — 9.43/10, thesis with honours
+location:   Spain
+```
 
-I currently work at **Nealis Tech**, where I develop custom applications, AI agents, and the platform used to orchestrate them.
+## Stack
 
-My interest in technology began with a Raspberry Pi when I was 11. Since then, curiosity has taken me through backend development, web applications, self-hosted services, automated testing, distributed learning, and AI-enabled software.
-
-- 🎓 BSc in Computer Engineering, majoring in Software Engineering, from **Universitat Jaume I**
-- 🏅 Graduated with a **9.43/10 GPA** and received **Honours for my Bachelor's Thesis**
-- 🔬 Former researcher at **GEOTEC**, where I developed a cluster-based federated learning system for IoT environments
-- 🧪 Previously worked on end-to-end UI test automation with **Playwright** and a QA execution-history portal
-- 🏆 Two-time recipient of the **Ernest Breva Academic Excellence Award**
-- 🌍 Based in Spain
-
-## Tech stack
-
-**Languages:** Python · Java · SQL · Bash · JavaScript / TypeScript · C · Kotlin
-**Backend & data:** FastAPI · MongoDB · PostgreSQL · Redis · Firebase · Supabase  
-**Web & testing:** React · Angular · Playwright · HTML · CSS  
-**Tools & platforms:** Git & GitHub · Docker · Linux · Cloudflare  
-**Current work:** LLM applications · AI agents · Agent orchestration  
-**Also explored:** Federated learning · Arduino / ESP32 · Unity  
-**Learning:** Go · Rust
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+<br>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+<br>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 ## Featured projects
 
-| Project | What it does | Stack |
+| Project | Description | Stack |
 | --- | --- | --- |
-| [Orbit](https://github.com/JGoterris/orbit) | TUI to launch, control and monitor local services. | Go · Bubble Tea · Docker  |
-| [LIA-FL](https://github.com/GeoTecINIT/LIA_System) | Containerised federated learning platform for AIoT time-series forecasting, with group-based federation over MQTT. | Python · MQTT · AIoT · Docker |
-| [Mappets](https://github.com/JGoterris/Mappets) | Android mobility app that plans routes by time, distance, or cost and estimates financial or physical effort for different transport modes. | Kotlin · Jetpack Compose · Firebase · Mapbox |
-| [GastoBot](https://github.com/JGoterris/GastoBot) | AI-powered Telegram bot that extracts expenses from text, voice notes, and receipt photos, validates them with the user, and stores them in Google Sheets. | Python · Gemini · Telegram API · Google Sheets |
-| [SongRecommendations](https://github.com/JGoterris/SongRecommendations) | Desktop application that recommends songs from a preloaded catalogue. | Java · JavaFX |
+| [**Orbit**](https://github.com/JGoterris/orbit) | TUI to launch, control and monitor local services. | Go · Bubble Tea · Docker |
+| [**LIA-FL**](https://github.com/GeoTecINIT/LIA_System) | Containerised federated learning platform for AIoT time-series forecasting, with group-based federation over MQTT. | Python · MQTT · Docker |
+| [**GastoBot**](https://github.com/JGoterris/GastoBot) | Telegram bot that extracts expenses from text, voice notes and receipt photos, and logs them to Google Sheets. | Python · Gemini · Telegram API |
+| [**Mappets**](https://github.com/JGoterris/Mappets) | Android app that plans routes by time, distance or cost and estimates the effort of each transport mode. | Kotlin · Jetpack Compose · Firebase · Mapbox |
+| [**SongRecommendations**](https://github.com/JGoterris/SongRecommendations) | Desktop app that recommends songs from a preloaded catalogue. | Java · JavaFX |
 
-These are just a few of the projects I have made public. Most of my projects and professional work are kept in private repositories. Find more details on [my portfolio website](https://jgoterris.com/).
-
-## Beyond the code
-
-I care about understanding how systems work, communicating clearly, and continuously improving the way software is built. I am especially interested in **software architecture, programming, backend development, researching and innovating**.
-
-When I am not building software, I am usually learning a new technology, experimenting with my home server, or helping others discover what they can create with code.
-
----
-
-<div align="center">
-
-### Let's build something useful
-
-I am always happy to connect, exchange ideas, and collaborate on interesting software projects.
-
-[Portfolio](https://jgoterris.com) · [LinkedIn](https://www.linkedin.com/in/jgoterris/) · [Email](mailto:contact@jgoterris.com)
-
-</div>
+Most of my professional work lives in private repos. More on **[jgoterris.com](https://jgoterris.com)**.
